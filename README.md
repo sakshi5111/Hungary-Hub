@@ -1,4 +1,4 @@
-Hungary Hub, A Food Ordering Web Application made using #Swiggy API's.
+**Hungary Hub, A Food Ordering Web Application made using #Swiggy API's.**
 
 
 Key Features and Functionalities🚀
