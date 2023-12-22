@@ -12,7 +12,7 @@ export const LOGO_URL =
   "https://www.logodesign.net/logo-design/0/MzYyNA%253D%253D/Q09NUEFOWSBOQU1F";
 
 export const MENU_API =
-  "https://corsproxy.io/?https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=21.1702401&lng=72.83106070000001&restaurantId=";
+  "https://corsproxy.org/?https%3A%2F%2Fwww.swiggy.com%2Fdapi%2Fmenu%2Fpl%3Fpage-type%3DREGULAR_MENU%26complete-menu%3Dtrue%26lat%3D21.1702401%26lng%3D72.83106070000001%26restaurantId%3D";
 
 export const MENU_ITEM_IMG_URL =
   "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/";

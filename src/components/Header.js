@@ -7,7 +7,7 @@ import { useSelector } from "react-redux";
 // Title component for display logo
 const Title = () => (
   <a href="/">
-    <img className="w-24 mx-7" src={logo} alt="Hungary Hub" title="" />
+    <img className="w-28 mx-7" src={logo} alt="Hungary Hub" title="" />
   </a>
 );
 
@@ -25,7 +25,7 @@ const Header = () => {
     <div className="flex justify-between shadow-lg">
       <Title />
       <div className="flex items-center">
-        <ul className="flex m-4 p-4">
+        <ul className="flex m-4 p-4 text-lg">
           <li className="px-4 hover:text-green-400">
             Status {onlineStatus ? "🟢" : "🔴"}{" "}
           </li>

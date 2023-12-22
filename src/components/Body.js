@@ -34,6 +34,7 @@ const Body = () => {
     try {
       const response = await fetch(swiggy_api_URL);
       const json = await response.json();
+      console.log(json);
 
       // initialize checkJsonData() function to check Swiggy Restaurant data
       async function checkJsonData(jsonData) {
@@ -90,7 +91,7 @@ const Body = () => {
       <div className="m-12 flex place-content-center">
         <input
           type="text"
-          className="border p-4 w-64"
+          className="border p-4 w-1/3"
           placeholder="Search a restaurant you want..."
           value={searchText}
           // update the state variable searchText when we typing in input box
