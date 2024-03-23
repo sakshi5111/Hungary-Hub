@@ -4,8 +4,6 @@ export const IMG_CDN_URL =
 
 // Swiggy API to get Restaurant data with corsproxy
 export const swiggy_api_URL =
-  // "https://thingproxy.freeboard.io/fetch/https://www.swiggy.com%2Fdapi%2Frestaurants%2Flist%2Fv5%3Flat%3D21.1702401%26lng%3D72.83106070000001%26page_type%3DDESKTOP_WEB_LISTING";
-
   "https://thingproxy.freeboard.io/fetch/https://www.swiggy.com%2Fdapi%2Frestaurants%2Flist%2Fv5%3Flat%3D21.1702401%26lng%3D72.83106070000001%26page_type%3DDESKTOP_WEB_LISTING";
 
 export const shimmer_card_unit = 16;
