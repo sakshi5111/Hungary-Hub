@@ -29,9 +29,10 @@ Key Features and Functionalities🚀
 
 Live Link - https://hungaryhub.netlify.app/
 
-![image](https://github.com/sakshi5111/Hungary-Hub/assets/72803817/0c934fd1-d5d2-4a3f-8ce7-835ff720db68)
 
 ![image](https://github.com/sakshi5111/Hungary-Hub/assets/72803817/84d06981-73f1-4e70-aef9-7275248f9dea)
+
+![image](https://github.com/sakshi5111/Hungary-Hub/assets/72803817/0c934fd1-d5d2-4a3f-8ce7-835ff720db68)
 
 ![image](https://github.com/sakshi5111/Hungary-Hub/assets/72803817/f6f31a54-fffe-4af9-b0de-2ba56b95126e)
 
